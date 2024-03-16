@@ -1,0 +1,8 @@
+.outer-div{
+
+    border:4px solid black;
+    width: 50%;
+    height: 300px;
+    margin-top: 5%;
+    padding: 20px;
+}
